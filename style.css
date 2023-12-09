@@ -1,0 +1,38 @@
+body
+{
+   background-color:  greenyellow;
+}
+
+title
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+camera
+{
+    width: 500;
+    height: 400;
+    
+}
+
+camera_regular
+{
+    width: 2500;
+    height: 2500;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+camera_jungle
+{
+
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+camera_hanging
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+border-radius: 140px;
+}
